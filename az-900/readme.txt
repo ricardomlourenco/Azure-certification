@@ -1,0 +1,1 @@
+This project contains scripts for practice az900 exercises
