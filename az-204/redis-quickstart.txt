@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/quickstart-create-redis
+
+https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-dotnet-core-quickstart
